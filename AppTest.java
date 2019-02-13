@@ -18,6 +18,6 @@ public class AppTest
     {
 
         Calculater calc = new Calculater();
-        assertEquals(10,calc.calcSum(5,5));
+        assertEquals(20,calc.calcSum(10,10));
     }
 }
